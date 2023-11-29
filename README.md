@@ -1,5 +1,4 @@
-# Project Title:  
-The Anatomy of Video Games: A Comprehensive Analysis of the Video Game Industry
+# Industry Video Game Analysis
 
 ## Project Setup
 To run this project, you need to have a platform to run Python 3.10 code
